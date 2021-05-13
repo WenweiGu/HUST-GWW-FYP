@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Multivariate KPIs Anomaly Detection Benchmark
 
 **This repository is a multivariate KPIs anomaly detection toolkit with a comprehensive benchmark protocol. Our goal is to make a software system more reliable via AIOps.**
@@ -150,8 +151,15 @@ HUST Final Year Project of Wenwei Gu
 <<<<<<< HEAD
 >>>>>>> b53b134dbf2a8baeb357bb96f0f469f4f9907be7
 =======
+=======
+# HUST-GWW-FYP
+HUST Final Year Project of Wenwei Gu
+>>>>>>> 642b0defa6fe672a6ca2ec5cc0f6c22ab6c7b7c6
 
 Please install the dependency first as stated in requirements.txt
 
 Then, you can run demo and change dataset as you want.
+<<<<<<< HEAD
+>>>>>>> 642b0defa6fe672a6ca2ec5cc0f6c22ab6c7b7c6
+=======
 >>>>>>> 642b0defa6fe672a6ca2ec5cc0f6c22ab6c7b7c6
