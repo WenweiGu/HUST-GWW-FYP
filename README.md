@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Multivariate KPIs Anomaly Detection Benchmark
 
 **This repository is a multivariate KPIs anomaly detection toolkit with a comprehensive benchmark protocol. Our goal is to make a software system more reliable via AIOps.**
